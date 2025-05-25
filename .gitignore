@@ -1,5 +1,5 @@
 # Arquivos binários gerados
-/target/
+target/
 
 # Arquivos de debug e cache do Cargo
 **/*.rs.bk
