@@ -5,8 +5,8 @@
 
 ## Meus estudos de Rust e cursos
 
-### Curso de Rust
-
+### Curso de Rust no YouTube
+>Variáveis imutáveis(padrão), Variáveis Mutáveis (mut), Constantes(const), Tipagem Estática e Forte, Operações Aritméticas, Escopos, Shadowing, Macros(println!)...
 
 #### Ferramentas e linguagens utilizadas:
 <div>
